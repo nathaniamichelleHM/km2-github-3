@@ -1,5 +1,6 @@
 Sarapan
   - Salad
+  - Jus Tomat
   
 Makan Siang 
   - Steak Ayam 
@@ -9,3 +10,4 @@ Makan Siang
 Makan Malam 
   - Sundubujigae
   - Ice Americano 
+  - Sour Sally
